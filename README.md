@@ -40,6 +40,12 @@ Players likely to request a move are identified based on:
 
 <img width="585" height="262" alt="Screenshot 2568-07-29 at 13 35 36" src="https://github.com/user-attachments/assets/f907add5-a6cb-40c5-98a1-8563a1329721" /> </ba>
 
+<img width="1118" height="530" alt="Screenshot 2568-07-29 at 13 40 38" src="https://github.com/user-attachments/assets/40a621f6-ee43-4d77-a5b0-4f877b9ec884" />
+
+<img width="1117" height="530" alt="Screenshot 2568-07-29 at 13 40 19" src="https://github.com/user-attachments/assets/04fb6bc0-8616-4b6e-85fb-db83116a423b" />
+
+<img width="682" height="329" alt="Screenshot 2568-07-29 at 13 41 56" src="https://github.com/user-attachments/assets/642b61e6-034a-447d-b071-34560c687b20" />
+
 
 ## Tools 
 
